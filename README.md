@@ -30,7 +30,7 @@ Este proyecto no requiere ninguna instalación especial y puede ejecutarse direc
 1. Clona este repositorio o descarga los archivos.
 2. Abre el archivo `index.html` en tu navegador.
 3. **O bien**, accede directamente a la página web alojada en GitHub Pages a través del siguiente enlace:
-    - [Sorteo amigo secreto](https://adsecv.github.io/challenge-amigo-secreto/)
+    - [Sorteo amigo secreto](https://adsecv.github.io/sas/)
 
 ¡Listo! Ahora puedes explorar el proyecto directamente desde tu navegador o desde la página web alojada.
 
